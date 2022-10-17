@@ -2,7 +2,7 @@
 티스토리 글이 안써져서 옮기는 중...ㅎ
 
 
-가고픈 회사
+가고픈 회사<br>
    • 백엔드 : MSA, NestJS (Typescript), Springboot (Kotlin), RESTful API, GraphQL, PostgreSQL
    • 인프라 : Google Cloud Platform, Kubernetes, CI/CD - Github Action, Kafka
    

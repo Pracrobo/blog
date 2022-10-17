@@ -3,8 +3,8 @@
 
 
 가고픈 회사<br>
-   • 백엔드 : MSA, NestJS (Typescript), Springboot (Kotlin), RESTful API, GraphQL, PostgreSQL
-   • 인프라 : Google Cloud Platform, Kubernetes, CI/CD - Github Action, Kafka
+   • 백엔드 : MSA, NestJS (Typescript), Springboot (Kotlin), RESTful API, GraphQL, PostgreSQL<br>
+   • 인프라 : Google Cloud Platform, Kubernetes, CI/CD - Github Action, Kafka<br>
    
 하는 일  
 • 서비스 신규 API를 개발 (→ 도메인 주도 설계, DB 모델링) 합니다.
